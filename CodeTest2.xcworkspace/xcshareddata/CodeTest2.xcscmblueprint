@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "72C6DF7AC137ABD000B6524187696E49B4247171",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "72C6DF7AC137ABD000B6524187696E49B4247171" : 0,
+    "DE4FDC43E8D86576FDAF7FC88A690513FC7161F4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "177B32C2-55A7-4982-9F0E-6E8A879ADC06",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "72C6DF7AC137ABD000B6524187696E49B4247171" : "CodeTest2\/",
+    "DE4FDC43E8D86576FDAF7FC88A690513FC7161F4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CodeTest2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CodeTest2.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/futomtom\/CodeTest2-StreamingVideo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "72C6DF7AC137ABD000B6524187696E49B4247171"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/futomtom\/CodeTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE4FDC43E8D86576FDAF7FC88A690513FC7161F4"
+    }
+  ]
+}
